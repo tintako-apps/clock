@@ -2,6 +2,8 @@
 
 # Clock
 
+> **No longer developed.** Clock gets no more updates. It keeps working, and every version is kept in [tintako-apps/history](https://github.com/tintako-apps/history/tree/main/clock).
+
 A calm, fully offline clock and alarm app made for E Ink devices: world clock, alarms, stopwatch and timers on big flip tiles. Black and white, no animations.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tintako)
